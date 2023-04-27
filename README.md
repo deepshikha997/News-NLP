@@ -1,7 +1,6 @@
 # News-NLP 
-News NLP Categorization
 
-# Natural Language Processing: News Article Categorization
+# Natural Language Processing: News NLP Categorization
 ## Data 
 It contain the news of different title and content with their published date and source.It full data is of 810 rows  
 
