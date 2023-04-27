@@ -2,11 +2,8 @@
 News NLP Categorization
 
 # Natural Language Processing: News Article Categorization
-
 ## Data 
-
-This project used the News Category Dataset from Rishabh Misra which had originally been web scraped from The Huffington Post. The data, post cleaning, contained 1 feature, the combination of the headline and description features, with 200,853 records. 
-
+It contain the news of different title and content with their published date and source.It full data is of 810 rows  
 
 ---
 
@@ -67,6 +64,12 @@ This project used the News Category Dataset from Rishabh Misra which had origina
 
 
 --- 
+## Test Sets 
+| Original Content |New Content | Removed Lines | Further Metrics |
+|------------------|------------|---------------|-----------------|
+| It contaion 810 lines| It contain less lines after removing extra words and puncuations | revoing the stops words   | metrics is fully updated         |
+
+
 
 
 
