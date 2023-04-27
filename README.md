@@ -46,9 +46,9 @@ It contain the news of different title and content with their published date and
 
 ## Conclusions
 
-* The model was able to predict the category of each article description with 62 percent accuracy with a slight overfit on the training data - 66 percent F-1 score. 
+* The model was able to predict the category of each news title with 62 percent accuracy with a slight overfit on the training data - 66 percent F-1 score. 
 
-* While the model accuracy was not substantially high, it would prove to be a meaningful model in predicting news article categories for Huffington Post.
+* While the model accuracy was not substantially high, it would prove to be a meaningful model in predicting news topic for Huffington Post.
 
 
 ---
