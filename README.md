@@ -67,7 +67,7 @@ It contain the news of different title and content with their published date and
 ## Test Sets 
 | Original Content |New Content | Removed Lines | Further Metrics |
 |------------------|------------|---------------|-----------------|
-| It contaion 810 lines| It contain less lines after removing extra words and puncuations | revoing the stops words   | metrics is fully updated         |
+| It contaion 810 lines| It contain less lines after removing extra words and puncuations | removing the stops words   | metrics is fully updated         |
 
 
 
